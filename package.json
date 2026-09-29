@@ -2,7 +2,12 @@
   "name": "try-remotion",
   "version": "1.0.0",
   "description": "Web app for rendering YouTube logo inserts with Remotion",
-  "repository": {},
+  "homepage": "https://lostcausepublication.github.io/try-remotion/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LostCausePublication/try-remotion.git"
+  },
+  "bugs": "https://github.com/LostCausePublication/try-remotion/issues",
   "license": "MIT",
   "private": true,
   "dependencies": {

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Live demo
+    url: https://lostcausepublication.github.io/try-remotion/
+    about: Try the deployed web app on GitHub Pages

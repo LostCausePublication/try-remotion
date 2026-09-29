@@ -159,7 +159,7 @@ export const App = () => {
   return (
     <main className="page">
       <header className="header">
-        <h1>Logo insert</h1>
+        <h1>Try Remotion</h1>
         <p>Upload a logo, set the zoom, and download an MP4.</p>
       </header>
       {browserIssue ? <p className="banner">{browserIssue}</p> : null}
